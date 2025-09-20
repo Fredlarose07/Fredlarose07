@@ -18,17 +18,16 @@ Now, I teach machines to do the same.
 ## 🌱 I’m currently learning
 - **AI & Full-Stack development** to combine front-end, back-end, and intelligent systems  
 - Advanced **Nest.js & Prisma** for scalable backend architectures  
-- **Motion design & Blender** to make interfaces more interactive and dynamic  
 - Best practices in **CI/CD, Docker, and Git workflows**  
 
 ---
 
 ## ⚡ My stack
-**Front-end:** HTML, CSS, JavaScript, React  
-**Back-end:** Node.js, Nest.js, Prisma  
-**AI & Automation:** Python (learning), ML concepts, AI integrations  
-**Design & Motion:** Figma, Blender, UX/UI, Atomic Design, Design Systems  
-**DevOps & Tools:** Git/GitHub, Docker, CI/CD, Agile  
+- **Front-end:** HTML, CSS, JavaScript, React  
+- **Back-end:** Node.js, Nest.js, Prisma  
+- **AI & Automation:** Python (learning), ML concepts, AI integrations  
+- **Design & Motion:** Figma, Blender, UX/UI, Atomic Design, Design Systems  
+- **DevOps & Tools:** Git/GitHub, Docker, CI/CD, Monitoring, Agile  
 
 ---
 
