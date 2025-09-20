@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Fredlarose07/Fredlarose07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je crée des interfaces jolies.  
+Puis j’ai appris à les coder.  
+Maintenant, j’apprends aux machines à faire pareil.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Ce que je fais
+- UX/UI design avec une obsession pour la simplicité et l’efficacité  
+- Développement web (JavaScript, React, Nest.js)  
+- Exploration de l’IA pour créer des applications plus intelligentes  
+
+---
+
+## 📫 Me contacter
+- ✉️ [Email](yann.duchateau97@gmail.com)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/yann-duchateau/))  
+
+---
