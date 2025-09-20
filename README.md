@@ -25,7 +25,7 @@ Now, I teach machines to do the same.
 ## ⚡ My stack
 - **Front-end:** HTML, CSS, JavaScript, React  
 - **Back-end:** Node.js, Nest.js, Prisma  
-- **AI & Automation:** Python (learning), ML concepts, AI integrations  
+- **AI & Automation (learning):** Python, ML concepts, AI integrations  
 - **Design & Motion:** Figma, Blender, UX/UI, Atomic Design, Design Systems  
 - **DevOps & Tools:** Git/GitHub, Docker, CI/CD, Agile  
 
