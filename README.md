@@ -35,6 +35,7 @@ Now, I teach machines to do the same.
 ## 📫 Contact me
 - ✉️ [Email](mailto:yann.duchateau97@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yann-duchateau/)  
+- 🎨 [Behance](https://www.behance.net/inspectcolombi)
 
 ---
 
