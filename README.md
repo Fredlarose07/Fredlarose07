@@ -1,20 +1,35 @@
 ## Hi there 👋
 
-Je crée des interfaces jolies.  
-Puis j’ai appris à les coder.  
-Maintenant, j’apprends aux machines à faire pareil.
+I design beautiful interfaces.  
+Then I learned how to code them.  
+Now, I teach machines to do the same.
 
 ---
 
-## ⚡ Ce que je fais
-- UX/UI design avec une obsession pour la simplicité et l’efficacité  
-- Développement web (JavaScript, React, Nest.js)  
-- Exploration de l’IA pour créer des applications plus intelligentes  
+## ⚡ What I do
+- UX/UI design with a focus on simplicity and efficiency  
+- Web development (JavaScript, React, Nest.js)  
+- Exploring AI to build smarter applications  
 
 ---
 
-## 📫 Me contacter
-- ✉️ [Email](yann.duchateau97@gmail.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/yann-duchateau/))  
+## 🌱 I’m currently learning
+- **AI & Full-Stack development** to combine front-end, back-end, and intelligent systems  
+- Advanced **Nest.js & Prisma** for scalable backend architectures  
+- **Motion design & Blender** to make interfaces more interactive and dynamic  
+- Best practices in **CI/CD, Docker, and Git workflows**  
 
 ---
+
+## ⚡ My stack
+**Front-end:** HTML, CSS, JavaScript, React  
+**Back-end:** Node.js, Nest.js, Prisma  
+**AI & Automation:** Python (learning), ML concepts, AI integrations  
+**Design & Motion:** Figma, Blender, UX/UI, Atomic Design  
+**Tools:** Git/GitHub, Docker, CI/CD, Agile  
+
+---
+
+## 📫 Contact me
+- ✉️ [Email](mailto:yann.duchateau97@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yann-duchateau/)  
