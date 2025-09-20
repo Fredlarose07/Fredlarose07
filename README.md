@@ -27,7 +27,7 @@ Now, I teach machines to do the same.
 - **Back-end:** Node.js, Nest.js, Prisma  
 - **AI & Automation:** Python (learning), ML concepts, AI integrations  
 - **Design & Motion:** Figma, Blender, UX/UI, Atomic Design, Design Systems  
-- **DevOps & Tools:** Git/GitHub, Docker, CI/CD, Monitoring, Agile  
+- **DevOps & Tools:** Git/GitHub, Docker, CI/CD, Agile  
 
 ---
 
