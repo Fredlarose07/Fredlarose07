@@ -32,10 +32,15 @@ Now, I teach machines to do the same.
 
 ---
 
+## 🎨 Portfolio
+- 🖌️ [Behance](https://www.behance.net/inspectcolombi)
+- 🍱 [Bento](https://bento.me/yann-duchateau)
+
+---
+
 ## 📫 Contact me
 - ✉️ [Email](mailto:yann.duchateau97@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yann-duchateau/)  
-- 🎨 [Behance](https://www.behance.net/inspectcolombi)
 
 ---
 
