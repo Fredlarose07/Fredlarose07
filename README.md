@@ -43,4 +43,4 @@ Now, I teach machines to do the same.
 
 ---
 
-✨ Always learning, always building — and having fun along the way!
+Code is like humor. When you have to explain it, it’s bad.
